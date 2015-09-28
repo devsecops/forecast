@@ -6,5 +6,5 @@ Forecast is a big data environment for understanding security anomalies using AW
 # Requirements
 * Must be able to take in all types of data and correlate it
 * Should use low cost storage options, when possible
-* Should allow for Ingestion within a single account and across accounts.
+* Should allow for Ingestion within a single account and across accounts
 
