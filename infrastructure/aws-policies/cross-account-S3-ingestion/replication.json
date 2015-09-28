@@ -1,0 +1,14 @@
+{
+  "Role": "arn:aws:iam::AWS-ID-Account-A:role/role-name",
+  "Rules": [
+    {
+      "Prefix": "Tax",
+      "Status": "Enabled",
+      "Destination": {
+        "Bucket": "arn:aws:s3:::destination-bucket"
+      }
+    }
+  ]
+}
+
+
