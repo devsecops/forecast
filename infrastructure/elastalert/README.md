@@ -19,3 +19,7 @@ Additionally, you can just run the elastalert_install.rb script on an existing E
 ##Todo##
 * Example elastalert rule creation for AWS Cloudtrail events
 * Bundled rules to allow for quick start
+* Create example alert for email alert
+* Create example alert for slack alert
+* Create example alert for Jira alert
+* Create example alert for Pager Duty
