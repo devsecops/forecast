@@ -7,4 +7,6 @@ Links:
 
 2. http://docs.aws.amazon.com/AmazonS3/latest/dev/crr-walkthrough-2.html
 
+3. https://github.com/Yelp/elastalert
+
 
