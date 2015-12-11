@@ -1,7 +1,6 @@
 Forecast
 ========
-
-Forecast is a big data environment for understanding security anomalies using AWS services and Open Source projects.
+Forecast is a big data environment for understanding security anomalies using AWS services and Open Source projects.  It can be used to ingest data from a reconnaissance library, logs and event feeds to support Continuous Delivery of software projects.  And it is intended to utilize a catalog of rules for forecasting security issues as they progress through a Continuous Delivery pipeline.
 
 # Requirements
 * Must be able to take in all types of data and correlate it
