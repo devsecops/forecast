@@ -14,3 +14,5 @@ Too many security tools require a lot of human intervention, we'll start with a 
 ##Simple Alert Workflow
 Avoid building complicated workflows in Forecast, it should be kept simple to achieve its purpose and hand-off alerts to other tools for escalated correlation and handling.
 
+##Change is Imminent
+Forecast must support dynamic assets and resources that are constantly in changing.  It should not get pinned to a specific model and should inherently utilize a model defined by the organization using dynamic metadata.
