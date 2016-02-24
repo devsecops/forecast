@@ -11,4 +11,6 @@ We've learned that security is the biggest, big data problem an organization has
 ##Humans are Optional
 Too many security tools require a lot of human intervention, we'll start with a design that makes it possible to reduce human effort from the inception of the project.
 
+##Simple Alert Workflow
+Avoid building complicated workflows in Forecast, it should be kept simple to achieve its purpose and hand-off alerts to other tools for escalated correlation and handling.
 
